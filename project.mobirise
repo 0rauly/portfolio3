@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio 3",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -19,10 +19,10 @@
         "display2Size": 3,
         "display5Font": "Amatic SC",
         "display5Size": 1.5,
-        "display7Font": "Rubik",
-        "display7Size": 1,
+        "display7Font": "Amatic SC",
+        "display7Size": "2",
         "display4Font": "Amatic SC",
-        "display4Size": 1,
+        "display4Size": "2",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true
