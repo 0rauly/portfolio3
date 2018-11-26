@@ -15,24 +15,36 @@
         "mainFont": "Rubik",
         "display1Font": "Rubik",
         "display1Size": 4.25,
-        "display2Font": "Rubik",
+        "display2Font": "Amatic SC",
         "display2Size": 3,
-        "display5Font": "Rubik",
+        "display5Font": "Amatic SC",
         "display5Size": 1.5,
         "display7Font": "Rubik",
         "display7Size": 1,
-        "display4Font": "Rubik",
+        "display4Font": "Amatic SC",
         "display4Size": 1,
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
-        "#f90900"
+        "#f90900",
+        "#911111"
       ]
     },
     "path": "@PROJECT_PATH@",
-    "siteFonts": [],
+    "siteFonts": [
+      {
+        "css": "'Oswald', sans-serif",
+        "name": "Oswald",
+        "url": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
+      },
+      {
+        "css": "'Amatic SC', handwriting",
+        "name": "Amatic SC",
+        "url": "https://fonts.googleapis.com/css?family=Amatic+SC:400,700"
+      }
+    ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 43,
     "versionPublish": "4.8.7",
@@ -473,6 +485,9 @@
             ".mbr-text, .mbr-section-btn": {
               "color": "#232323",
               "text-align": "right"
+            },
+            ".mbr-text, .mbr-section-btn I": {
+              "color": "#911111"
             }
           },
           "_name": "header2",
